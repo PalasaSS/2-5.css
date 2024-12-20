@@ -1,0 +1,720 @@
+#headerdiv {
+    max-width: 1920px;
+    width: 100%;
+    height: 48px;
+    display: inline-block;
+    padding: 12px 32px 12px 32px;
+    background-color: #FBF9FF;
+}
+
+#logo.svg {
+    display: inline-block;
+}
+
+#pricing {
+    display: inline-block;
+    margin-left: 670.67px;
+    color: #323232;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#FAQ {
+    display: inline-block;
+    margin-left: 20px;
+    color: #323232;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#ourreviews {
+    display: inline-block;
+    margin-left: 20px;
+    color: #323232;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#contactus {
+    display: inline-block;
+    margin-left: 700px;
+    padding: 8px 16px 8px 16px;
+    background-color: #6941C6;
+    border-radius: 8px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#maindiv {
+    max-width: 1800px;
+    width: 100%;
+    height: 3783px;
+    background-color: #F1E8FF;
+    margin: 270px 360px 64px 120px;
+    padding: 96px;
+    display: inline-block;
+}
+
+#first-main-container {
+    width: 1300px;
+    height: 753px;
+    display: inline-block;
+    padding: 96px;
+}
+
+#heading-text-div {
+    width: 768px;
+    height: 132px;
+    display: inline-block;
+    margin-left: 340px;
+    text-align: center;
+}
+
+#first-header {
+    display: inline-block;
+    width: 259px;
+    height: 48px;
+    font-size: 40px;
+}
+
+#header-p {
+    display: inline-block;
+    width: 768px;
+    height: 64px;
+    font-size: 24px;
+    color: #535862;
+    margin-bottom: 32px;
+}
+
+#prices-main-div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1450px;
+    height: 589px;
+    margin-top: 32px;
+}
+
+#basic-plan-div {
+    width: 373.33px;
+    height: 589px;
+    display: inline-block;
+    padding: 40px 32px 40px 32px;
+    background-color: #FFFFFF;
+    border-radius: 1rem;
+    vertical-align: middle;
+}
+
+#basic-plan-button {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 140.17px;
+    margin-top: 40px;
+    width: 69px;
+    height: 20px;
+    font-size: 14px;
+    padding: 4px 12px 4px 12px;
+    color: #6941C6;
+    background-color: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+#basic-plan-price {
+    display: inline-block;
+    width: 309.33px;
+    height: 60px;
+    font-size: 48px;
+    margin-left: 32px;
+    text-align: center;
+    margin-bottom: 14px;
+    margin-top: 16px;
+}
+
+#plan-p {
+    width: 309.33px;
+    height: 24px;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    color: #535862;
+    margin-left: 32px;
+    margin-bottom: 16px;
+}
+
+#get-started-button {
+    display: inline-block;
+    padding: 12px 110.17px 12px 110.17px;
+    margin-left: 32px;
+    background-color: #7F56D9;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+#chat-button {
+    display: inline-block;
+    width: 102px;
+    height: 24px;
+    text-align: center;
+    margin-top: 16px;
+    color: #414651;
+    text-decoration: none;
+    border: 1px solid #414651;
+    padding: 12px 103px 12px 103px;
+    margin-left: 26.5px;
+    border-radius: 4px;
+}
+
+#verifications-div {
+    width: 309.33px;
+    height: 184px;
+    display: inline-block;
+    padding: 33px;
+}
+
+#check-circle {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#verification-text {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    width: 273.33px;
+    height: 16px;
+    font-size: 16px;
+}
+
+#buisness-plan-div {
+    width: 373.33px;
+    height: 589px;
+    display: inline-block;
+    padding: 40px 32px 40px 32px;
+    vertical-align: middle;
+    background-color: white;
+    border-radius: 1rem;
+    margin-left: 32px;
+    
+}
+
+#buisness-plan-button {
+    display: inline-block;
+    width: 117px;
+    height: 28px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    padding: 4px 12px 1px 12px;
+    margin-left: 100px;
+    border: 1px solid #E9D7FE;
+    border-radius: 1rem;
+    font-size: 14px;
+    margin-top: 44px;
+    vertical-align: middle;
+}
+
+#buisness-plan-price {
+    width: 309.33px;
+    height: 60px;
+    display: inline-block;
+    font-size: 48px;
+    text-align: center;
+    margin-left: 32px;
+    margin-bottom: 8px;
+    margin-top: 20px;
+}
+
+#second-header-p {
+    width: 309.33px;
+    height: 32px;
+    margin-left: 74px;
+    display: inline-block;
+    color: #535862;
+    font-size: 16px;
+}
+
+#second-verification-div {
+    width: 309.33px;
+    height: 184px;
+    display: inline-block;
+    padding: 33px;
+}
+
+#enterprice-plan-div {
+    width: 373.33px;
+    height: 589px;
+    display: inline-block;
+    padding: 40px 32px 40px 32px;
+    vertical-align: middle;
+    background-color: white;
+    border-radius: 1rem;
+    margin-left: 32px;
+}
+
+#enterprice-plan-button {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 4px 12px 4px 12px;
+    width: 101px;
+    height: 20px;
+    text-decoration: none;
+    color: #6941C6;
+    background-color: #F9F5FF;
+    border: 1px solid #E9D7FE;
+    border-radius: 1rem;
+    margin-top: 40px;
+    margin-left: 124.17px;
+}
+
+#enterprice-plan-price {
+    width: 309.33px;
+    height: 60px;
+    font-size: 48px;
+    text-align: center;
+    margin-left: 32px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+#third-header-p {
+    display: inline-block;
+    width: 309.33px;
+    height: 24px;
+    font-size: 16px;
+    color: #535862;
+    text-align: center;
+    margin-left: 32px;
+}
+
+#third-verification-div {
+    display: inline-block;
+    padding: 33px;
+    width: 309.33px;
+    height: 148px;
+}
+
+#asked-questions-main-div {
+    display: inline-block;
+    max-width: 1248px;
+    width: 100%;
+    height: 1616px;
+    margin-top: 128px;
+    margin-left: 192px;
+    padding: 32px 0px 32px 0px;
+    background-color: white;
+    border-radius: 1rem;
+}
+
+#second-header {
+    width: 540px;
+    height: 44px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 349px;
+    color: #181D27;
+    margin-bottom: 20px;
+}
+
+#second-header-p2 {
+    width: 768px;
+    height: 28px;
+    display: inline-block;
+    font-size: 24px;
+    margin-left: 340px;
+    color: #535862;
+    margin-top: 20px; 
+}
+
+#asked-questions-content-div {
+    width: 768px;
+    height: 1464px;
+    margin-left: 240px;
+}
+
+#free-trail-div {
+    width: 768px;
+    height: 140px;
+    padding: 32px;
+    background-color: #E4E4E4;
+    border-radius: 1rem;
+}
+
+#group {
+    display: inline-block;
+    margin-right: 24px;
+    vertical-align: middle;
+}
+
+#free-trail-header {
+    width: 656px;
+    height: 24px;
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: middle;
+    margin-bottom: 8px;
+}
+
+#questions-p {
+    width: 656px;
+    height: 72px;
+    font-size: 16px;
+    color: #535862;
+    margin-left: 48px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+#plan-changes-div {
+    width: 768px;
+    height: 144px;
+    background-color: #FFE5E5;
+    border: 1px solid #FF2323;
+    border-radius: 1rem;
+    padding: 32px;
+    margin-top: 16px;
+}
+
+#plan-changes-header {
+    display: inline-block;
+    width: 656px;
+    height: 24px;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+#plan-changes-p {
+    display: inline-block;
+   width: 656px;
+   height: 48px;
+   font-size: 16px;
+   margin-top: 8px;
+   color: #535862; 
+   margin-left: 48px;
+}
+
+#cancellation-div {
+    width: 768px;
+    height: 168px;
+    background-color: #E9D7FF;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 1rem;
+}
+
+#cancellation-header {
+    display: inline-block;
+    width: 656px;
+    height: 24px;
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+}
+
+#cancellation-p {
+    display: inline-block;
+    width: 656px;
+    height: 72px;
+    color: #535862;
+    margin-top: 8px;
+}
+
+#invoice-main-div {
+    width: 768px;
+    height: 168px;
+    display: inline-block;
+    padding: 32px;
+    background-color: #F7F4FF;
+    margin-top: 16px;
+    border-radius: 1rem;
+}
+
+#invoice-header {
+    display: inline-block;
+    width: 656px;
+    height: 24px;
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+}
+
+#invoice-p {
+    display: inline-block;
+    width: 656px;
+    height: 72px;
+    font-size: 16px;
+    color: #535862;
+    margin-top: 8px;
+}
+
+#billing-main-div {
+    width: 768px;
+    height: 168px;
+    display: inline-block;
+    background-color: #DCE6FF;
+    padding: 32px;
+    border: 3px solid #326DFF;
+    border-radius: 1rem;
+    margin-top: 16px;
+}
+
+#billing-header {
+    display: inline-block;
+    width: 656px;
+    height: 24px;
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+}
+
+#billing-p {
+    display: inline-block;
+    margin-top: 8px;
+    width: 656px;
+    height: 72px;
+    font-size: 16px;
+    color: #535862;
+}
+
+#change-email-main-div {
+    width: 768px;
+    height: 168px;
+    display: inline-block;
+    background-color: #FFD5E7;
+    padding: 32px;
+    margin-top: 16px;
+    border-radius: 1rem;
+}
+
+#change-email-header {
+    display: inline-block;
+    width: 656px;
+    height: 34px;
+    font-size: 16px;
+    color: #181D27;
+    margin-bottom: 8px;
+}
+
+#change-email-p {
+    display: inline-block;
+    margin-top: 8px;
+    width: 656px;
+    height: 72px;
+    font-size: 16px;
+    color: #535862;
+}
+
+#our-rewievs-main-div {
+    display: inline-block;
+    width: 1448px;
+    padding: 32px 0px 32px 0px;
+    margin-top: 64px;
+    background-color: white;
+
+}
+
+#our-rewievs-header {
+    display: inline-block;
+    width: 768px;
+    height: 44px;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 300px;
+    color: #181D27;
+    margin-bottom: 10px;
+}
+
+#our-rewievs-main-p {
+    display: inline-block;
+    width: 768px;
+    height: 30px;
+    font-size: 24px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#cards-main-div {
+    display: inline-block;
+    width: 1448px;
+    margin-top: 64px;
+    padding: 32px;
+}
+
+#first-card-div {
+    display: inline-block;
+    width: 580px;
+    padding: 32px;  
+    border: 1px solid #E9EAEB; 
+    border-radius: 1rem;
+}
+
+#first-card-p {
+    width: 516px;
+    height: 60px;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 82px;
+}
+
+#hewitt-div {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#hewitt-img-div {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#hewitt-text-div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#hewitt-header {
+    display: inline-block;
+    margin: 0 auto;
+    width: 122px;
+    font-size: 18px;
+}
+
+#hewitt-p {
+    margin: 0 auto;
+    width: 310px;
+    font-size: 16px;
+    color: #535862;
+}
+
+.logo {
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#second-card-main-div {
+    display: inline-block; 
+    padding: 32px;
+    vertical-align: top;
+    width: 580px;
+    border: 1px solid #E9EAEB;
+    border-radius: 1rem;
+    margin-left: 24px;
+}
+
+#second-card-header {
+    display: inline-block;
+    margin-bottom: 52px;
+    font-size: 20px;
+    color: #181D27;
+    width: 516px;
+}
+
+#king-img-div {
+    display: inline-block;
+}
+
+#king-text-div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#king-header {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#hewitt-p {
+    margin: 0 auto;
+    width: 317.33px;
+    font-size: #535862;
+    color: #535862;
+}
+
+#olly-main-div {
+    display: inline-block;
+    width: 580px;
+    padding: 32px;
+    border: 1px solid #E9EAEB;
+    border-radius: 1rem;
+    margin-left: 32px;
+}
+
+#third-card-header {
+    display: inline-block;
+    width: 516px;
+    font-size: 20px;
+    color: #181D27;
+    margin-bottom: 50px;
+}
+
+#olly-img-div {
+    display: inline-block;
+}
+
+#olly-img {
+    display: inline-block;
+}
+
+#olly-text-div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#olly-header {
+    width: 129px;
+    size: 18px;
+    color: #181D27;
+    margin: 0 auto;
+    margin-left: 0px;
+}
+
+#olly-p {
+    width: 332px;
+    font-size: 16px;
+    color: #535862;
+    margin: 0 auto;
+}
+
+#fourth-card-main-div {
+    display: inline-block;
+    width: 580px;
+    vertical-align: top;
+    margin-left: 24px;
+    border: 1px solid #E9EAEB;
+    border-radius: 1rem;
+    padding: 32px;
+}
+
+#fourth-card-header {
+    display: inline-block;
+    width: 516px;
+    font-size: 20px;
+    color: #181D27;
+    margin-bottom: 80px;
+}
+
+#riley-img-div {
+    display: inline-block;
+}
+
+#riley-text-div {
+    display: inline-block;
+    width: 336px;
+    vertical-align: top;
+}
+
+#riley-header {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#riley-p {
+    width: 336px;
+    font-size: 16px;
+    color: #535862;
+    margin: 0 auto;
+}
